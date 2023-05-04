@@ -1,0 +1,30 @@
+name of function: <function test_1.<locals>.hello_world at 0x7fb4964ca560>
+date and time of function call: 2023-05-04 20:54:53.637235
+arguments: () и {}
+result: Hello World
+
+name of function: <function test_1.<locals>.summator at 0x7fb4964ca7a0>
+date and time of function call: 2023-05-04 20:54:53.637928
+arguments: (2, 2) и {}
+result: 4
+
+name of function: <function test_1.<locals>.div at 0x7fb4964ca950>
+date and time of function call: 2023-05-04 20:54:53.638349
+arguments: (6, 2) и {}
+result: 3.0
+
+name of function: <function test_1.<locals>.summator at 0x7fb4964ca7a0>
+date and time of function call: 2023-05-04 20:54:53.638618
+arguments: (4.3,) и {'b': 2.2}
+result: 6.5
+
+name of function: <function test_1.<locals>.summator at 0x7fb4964ca7a0>
+date and time of function call: 2023-05-04 20:54:53.638741
+arguments: () и {'a': 0, 'b': 0}
+result: 0
+
+name of function: <function test_1 at 0x7f05d8547d90>
+date and time of function call: 2023-05-04 22:08:45.553442
+arguments: () и {}
+result: None
+
